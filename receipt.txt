@@ -1,0 +1,23 @@
+		Buble Laundry
+		Billing Information
+
+Customer No.:	1
+Customer Name:	Awi
+Phone No.:	0192738273
+Laundry Weight (kg):	4
+Payment (RM):	8
+
+Customer No.:	2
+Customer Name:	Yusuf
+Phone No.:	0142839277
+Laundry Weight (kg):	8
+Payment (RM):	14.5
+
+Customer No.:	3
+Customer Name:	Daus
+Phone No.:	011233422123
+Laundry Weight (kg):	16
+Payment (RM):	23.5
+
+
+The total sales today:	46

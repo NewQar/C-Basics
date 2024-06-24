@@ -1,0 +1,10 @@
+Uyamaru,cat,800,Shafie,0121254123
+Lola,bird,380,Fizi,0124574125
+Soluya,bird,380,Joe,0124574125
+Tompok,bird,380,Kinah,0124574125
+Momo,bird,380,Joe,0124574125
+Kunin,cat,1200,Mei,01278954125
+Uyasolu,bird,380,Ami,0124574125
+Uyalolu,sugar glider,150,Mamat,0128541203
+Petpet,cat,1380,Farah,01245714123
+Putput,bird,380,Farah,01245714755
